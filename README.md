@@ -7,3 +7,7 @@
 
 "The extermination of the buffalo has been a veritable tragedy of the animal world"
 -Teddy Roosevelt
+
+References: 
+https://github.com/aidanstone25/cs225/blob/MK_branch/tables%26forms/cartoons.html
+https://github.com/aidanstone25/cs225/blob/MK_branch/tables%26forms/newuser.html
